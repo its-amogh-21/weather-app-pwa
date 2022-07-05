@@ -4,7 +4,9 @@ import './App.css'
 
 const App = () =>{
     return(
-        <h1>This is weather App</h1>
+        <div>
+            <p>Welcome to the edge of the world black pearl!!!</p>
+        </div>
     )
 }
 
